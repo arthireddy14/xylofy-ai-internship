@@ -79,51 +79,9 @@ Week-3-4-Sales-Forecasting-Demand-Intelligence-System/
 └── charts/
 ```
 
----
-
-# 📷 Project Outputs
-
-## Monthly Sales Trend
-
-![Sales Trend](charts/sales_trend.png)
 
 ---
 
-## Time Series Decomposition
-
-![Decomposition](charts/time_series_decomposition.png)
-
----
-
-## XGBoost Forecast
-
-![Forecast](charts/xgboost_forecast.png)
-
----
-
-## Product & Region Forecast
-
-![Forecast](charts/category_region_forecast.png)
-
----
-
-## Weekly Sales Anomalies
-
-![Anomaly](charts/anomaly_detection.png)
-
----
-
-## Product Demand Segmentation
-
-![Clusters](charts/demand_clusters.png)
-
----
-
-## Streamlit Dashboard
-
-![Dashboard](charts/streamlit_dashboard.png)
-
----
 
 # 📈 Business Insights
 
