@@ -28,12 +28,22 @@ This repository contains all projects completed during my AI & Data Science Inte
 
 📄 **Detailed project:** `Week-2-Employee_Attrition_Prediction/README.md`
 
-### Week 3
-*(Coming Soon)*
+### Week 3 & Week 4 - End-to-End Sales Forecasting & Demand Intelligence System
+- Data Loading, Cleaning & Feature Engineering
+- Time Series Analysis & Seasonal Decomposition
+- Stationarity Testing (ADF Test)
+- Sales Forecasting using SARIMA
+- Sales Forecasting using Facebook Prophet
+- Sales Forecasting using XGBoost
+- Model Comparison (MAE, RMSE & MAPE)
+- Product Category & Region Level Forecasting
+- Weekly Sales Anomaly Detection (Isolation Forest & Z-Score)
+- Product Demand Segmentation using K-Means Clustering
+- Interactive Streamlit Dashboard
+- Executive Business Report
+- Business Recommendations & Inventory Insights
 
-### Week 4
-*(Coming Soon)*
-
+📄 **Detailed project:** `Week-3-4-Sales-Forecasting-Demand-Intelligence-System/README.md`
 ---
 
 ## 🛠 Technologies Used
@@ -42,10 +52,14 @@ This repository contains all projects completed during my AI & Data Science Inte
 - Pandas
 - NumPy
 - Scikit-learn
+- Statsmodels
+- Prophet
+- XGBoost
 - Matplotlib
 - Seaborn
+- Streamlit
 - Jupyter Notebook
-
+- Git & GitHub
 ---
 
 ## 🎯 Internship Objective
